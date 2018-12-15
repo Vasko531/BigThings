@@ -5,5 +5,6 @@ h1 {
   color: #ffffff;
   font-style:oblique;
   text-align: center;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
+  outline-style: double;
 }
