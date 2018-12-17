@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   letter-spacing: 2px;
 }
-p {
-  text-align: center;
+p.1 {
+  text-align: left;
   font-size: 50px;
 }
