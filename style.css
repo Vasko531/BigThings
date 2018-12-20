@@ -1,9 +1,5 @@
 .blinking{
     animation:blinkingText 0.8s infinite;
-    text-align: center;
-    text-size: 200;
-    color: red;
-
 }
 @keyframes blinkingText{
     0%{     color: #000;    }
